@@ -1,0 +1,10 @@
+O if é verdadeiro?
+Sim → executa e para.
+Não → vai para o próximo.
+
+O else if é verdadeiro?
+Sim → executa e para.
+Não → continua.
+
+Chegou no else?
+Então executa o else.
